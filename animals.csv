@@ -1,70 +1,70 @@
-Endangered Species Act,IUCN Red List,CITES,Population,URL
-Threatened,Vulnerable,Appendix I,"An estimated 5 million American alligators are spread out across the southeastern United States. Roughly 1.25 million alligators live in the state of Florida. There are more than 1,000 American crocodiles, not including hatchlings, in Florida",/wildlife/american-crocodile-and-alligator
-Not listed,Not listed,Not listed,"There are about 230 species of amphibians, including about 190 species of salamanders and 90 species of frogs and toads, that can be found in the continental United States",/wildlife/amphibians
-Delisted,Least Concern,Not listed,"As a result of conservation efforts, the bald eagle population has risen from a mere 417 nesting pairs in 1963 to more than 71,400 nesting pairs and an estimated 316,700 individual birds in the Lower 48 today",/wildlife/bald-eagle
-Not listed,Not listed,Not listed,"While some bat populations number in the millions, others are dangerously low or in decline",/wildlife/bats
-Not Listed,Least Concern,Not Listed,Today there are about 10–15 million in North America,/wildlife/beaver
-Endangered,Near Threatened,Appendix II,"Most recently, scientists determined in 2019 that the population size is between 250 and 317 animals, with a most likely estimate of 279 animals",/wildlife/beluga-whale
-Endangered,Least Concern,Appendix II,"There are fewer than 70,000 bighorn sheep in North America. The Sierra Nevada bighorn sheep and Peninsular bighorn sheep populations each number about 600.",/wildlife/bighorn-sheep
-Not Listed,Near Threatened,Appendix II,"There are approximately 20,000 plains bison managed as wildlife and 5,000 of those are unfenced and disease-free",/wildlife/bison
-Not Listed,Least Concern,Appendix II,"It is estimated that there are at least 600,000 black bears in North America. In the United States, there are estimated to be over 300,000 individuals. However, the Louisiana black bear (Ursus americanus luteolu) and Florida black bear (Ursus americanus floridanus) are unique subspecies with small populations: more than 4,000 Florida black bears and an estimated 500-750 Louisiana black bears, Louisiana’s state mammal. It was removed from the federal endangered species list in 2016",/wildlife/black-bear
-Endangered,Endangered,Appendix I,Around 350 black-footed ferrets are left in the wild,/wildlife/black-footed-ferret
-Threatened,Critically Endangered,Appendix I,"Current populations are unknown but estimates range from 2,500 to 10,000",/wildlife/bog-turtle
-Not listed,Not listed,Not listed,"Population numbers are generally unknown, but due to shrinking habitat and other threats, populations are threatened and declining",/wildlife/butterflies
-Endangered,Critically Endangered,Appendix I,"The California condor population steadily declined during the 20th century until there were only about 27 known to exist in the world. By the end of 2019, there were 337 free-flying condors in the condors and 181 in captivity",/wildlife/california-condor
-Threatened,Least Concern,Appendix II,"It is difficult to have an accurate estimate, but in the lower 48, lynx populations can currently be generalized as quite low and substantially reduced from historical levels",/wildlife/canada-lynx
-Not Listed,Vulnerable,Not Listed,"There are two herds in the Arctic National Wildlife Refuge: Porcupine Herd has about 218,000 animals and the smaller Central Arctic herd has about 22,000.",/wildlife/caribou
-Not listed,Not listed,Not listed,It is difficult to estimate population numbers since there are many different species spanning large geographic areas,/wildlife/dolphins
-Not listed,Not listed,Appendix I,"At the turn of the 20th century, there were a few million African elephants and about 100,000 Asian elephants. Today, there are an estimated 470,000 African elephants and between 40,000 - 50,000 wild Asian elephants",/wildlife/elephants
-Endangered,Least Concern,Not Listed,"Fishers are common in the Northeast and Midwest U.S., but rare in the northern Rockies and Northwest into California’s southern Sierra Nevada, where they are one of the rarest carnivores. Researchers believe there may be fewer than 300 adult fishers in the southern Sierra Nevada population",/wildlife/fisher
-Threatened,Vulnerable,Appendix I,"Today’s population estimate is around 8,800 animals.",/wildlife/florida-manatee
-Endangered,Not Listed,Appendix II,"There are an estimated 120-230 adults and subadults primarily in southwest Florida, the only breeding population. Continued northward range expansion and restoration of additional populations are recognized as essential for panther recovery.",/wildlife/florida-panther
-Endangered,Not listed,Not listed,"The Arctic fox population is several hundred thousand but fluctuates with the available lemming population.
+Name,Endangered Species Act,IUCN Red List,CITES,Population,URL
+American Crocodile and Alligator,Threatened,Vulnerable,Appendix I,"An estimated 5 million American alligators are spread out across the southeastern United States. Roughly 1.25 million alligators live in the state of Florida. There are more than 1,000 American crocodiles, not including hatchlings, in Florida",/wildlife/american-crocodile-and-alligator
+Amphibians,Not listed,Not listed,Not listed,"There are about 230 species of amphibians, including about 190 species of salamanders and 90 species of frogs and toads, that can be found in the continental United States",/wildlife/amphibians
+Bald Eagle,Delisted,Least Concern,Not listed,"As a result of conservation efforts, the bald eagle population has risen from a mere 417 nesting pairs in 1963 to more than 71,400 nesting pairs and an estimated 316,700 individual birds in the Lower 48 today",/wildlife/bald-eagle
+Bats,Not listed,Not listed,Not listed,"While some bat populations number in the millions, others are dangerously low or in decline",/wildlife/bats
+Beaver,Not Listed,Least Concern,Not Listed,Today there are about 10–15 million in North America,/wildlife/beaver
+Beluga Whale,Endangered,Near Threatened,Appendix II,"Most recently, scientists determined in 2019 that the population size is between 250 and 317 animals, with a most likely estimate of 279 animals",/wildlife/beluga-whale
+Bighorn Sheep,Endangered,Least Concern,Appendix II,"There are fewer than 70,000 bighorn sheep in North America. The Sierra Nevada bighorn sheep and Peninsular bighorn sheep populations each number about 600.",/wildlife/bighorn-sheep
+Bison,Not Listed,Near Threatened,Appendix II,"There are approximately 20,000 plains bison managed as wildlife and 5,000 of those are unfenced and disease-free",/wildlife/bison
+Black Bear,Not Listed,Least Concern,Appendix II,"It is estimated that there are at least 600,000 black bears in North America. In the United States, there are estimated to be over 300,000 individuals. However, the Louisiana black bear (Ursus americanus luteolu) and Florida black bear (Ursus americanus floridanus) are unique subspecies with small populations: more than 4,000 Florida black bears and an estimated 500-750 Louisiana black bears, Louisiana’s state mammal. It was removed from the federal endangered species list in 2016",/wildlife/black-bear
+Black-Footed Ferret,Endangered,Endangered,Appendix I,Around 350 black-footed ferrets are left in the wild,/wildlife/black-footed-ferret
+Bog Turtle,Threatened,Critically Endangered,Appendix I,"Current populations are unknown but estimates range from 2,500 to 10,000",/wildlife/bog-turtle
+Butterflies,Not listed,Not listed,Not listed,"Population numbers are generally unknown, but due to shrinking habitat and other threats, populations are threatened and declining",/wildlife/butterflies
+California Condor,Endangered,Critically Endangered,Appendix I,"The California condor population steadily declined during the 20th century until there were only about 27 known to exist in the world. By the end of 2019, there were 337 free-flying condors in the condors and 181 in captivity",/wildlife/california-condor
+Canada Lynx,Threatened,Least Concern,Appendix II,"It is difficult to have an accurate estimate, but in the lower 48, lynx populations can currently be generalized as quite low and substantially reduced from historical levels",/wildlife/canada-lynx
+Caribou,Not Listed,Vulnerable,Not Listed,"There are two herds in the Arctic National Wildlife Refuge: Porcupine Herd has about 218,000 animals and the smaller Central Arctic herd has about 22,000.",/wildlife/caribou
+Dolphins,Not listed,Not listed,Not listed,It is difficult to estimate population numbers since there are many different species spanning large geographic areas,/wildlife/dolphins
+Elephants,Not listed,Not listed,Appendix I,"At the turn of the 20th century, there were a few million African elephants and about 100,000 Asian elephants. Today, there are an estimated 470,000 African elephants and between 40,000 - 50,000 wild Asian elephants",/wildlife/elephants
+Fisher,Endangered,Least Concern,Not Listed,"Fishers are common in the Northeast and Midwest U.S., but rare in the northern Rockies and Northwest into California’s southern Sierra Nevada, where they are one of the rarest carnivores. Researchers believe there may be fewer than 300 adult fishers in the southern Sierra Nevada population",/wildlife/fisher
+Florida Manatee,Threatened,Vulnerable,Appendix I,"Today’s population estimate is around 8,800 animals.",/wildlife/florida-manatee
+Florida Panther,Endangered,Not Listed,Appendix II,"There are an estimated 120-230 adults and subadults primarily in southwest Florida, the only breeding population. Continued northward range expansion and restoration of additional populations are recognized as essential for panther recovery.",/wildlife/florida-panther
+Foxes,Endangered,Not listed,Not listed,"The Arctic fox population is several hundred thousand but fluctuates with the available lemming population.
 The population of San Joaquin kit foxes is estimated to be as low as 3,000 individuals.
 Swift fox population numbers in the wild are unknown, but they are found in less than 40% of their historic range.
 ",/wildlife/foxes
-Not listed,Not listed,Not listed,"Many populations are small and fragmented, making population estimates extremely difficult",/wildlife/freshwater-fishes
-Not listed,Not listed,Not listed,"North America once boasted some 300 species of freshwater mussels, but as a result of land development, over-harvesting and chronic pollution over the last 200 years, 38 mussel species are already thought to be extinct and another 77 are considered imperiled",/wildlife/freshwater-mussels
-Endangered,Endangered,Not listed,"According to the U.S. Fish and Wildlife Service, the golden-cheeked warbler population dropped by 25% since it was listed as endangered in 1990, to about 27,000 birds in 2019.",/wildlife/golden-cheeked-warbler
-Endangered,Least Concern,Appendix II,"There are an estimated 7,000 to 11,200 gray wolves in Alaska, 3,700 in the Great Lakes region, 1,675 in the Northern Rockies and 275 in the Pacific Northwest",/wildlife/gray-wolf
-Threatened,Least Concern,Appendix I,"North Cascades Ecosystem: <10 bears
+Freshwater Fishes,Not listed,Not listed,Not listed,"Many populations are small and fragmented, making population estimates extremely difficult",/wildlife/freshwater-fishes
+Freshwater Mussels,Not listed,Not listed,Not listed,"North America once boasted some 300 species of freshwater mussels, but as a result of land development, over-harvesting and chronic pollution over the last 200 years, 38 mussel species are already thought to be extinct and another 77 are considered imperiled",/wildlife/freshwater-mussels
+Golden-Cheeked Warbler,Endangered,Endangered,Not listed,"According to the U.S. Fish and Wildlife Service, the golden-cheeked warbler population dropped by 25% since it was listed as endangered in 1990, to about 27,000 birds in 2019.",/wildlife/golden-cheeked-warbler
+Gray Wolf,Endangered,Least Concern,Appendix II,"There are an estimated 7,000 to 11,200 gray wolves in Alaska, 3,700 in the Great Lakes region, 1,675 in the Northern Rockies and 275 in the Pacific Northwest",/wildlife/gray-wolf
+Grizzly Bear,Threatened,Least Concern,Appendix I,"North Cascades Ecosystem: <10 bears
 Selkirk Ecosystem: ~80 bears
 Cabinet-Yaak Ecosystem: ~50 bears
 Northern Continental Divide Ecosystem: ~1,000 bears
 Yellowstone Ecosystem: ~700 bear",/wildlife/grizzly-bear
-Endangered,Near Threatened,Appendix III,"These unique and fascinating critters were historically widespread and abundant across 15 states, but surveys across their range have revealed that their numbers are falling fast, with about 78% of populations declining or already extirpated. The most stable remaining populations occur overwhelmingly on public lands",/wildlife/hellbender
-Not Listed,Vulnerable,Not Listed,Not listed,/wildlife/horseshoe-crab
-Endangered,Near Threatened,Appendix I,"The total population of jaguars in the Americas is approximately 64,000.  There are 34 jaguar subpopulations, 25 of which are threatened and eight of which are in danger of extinction",/wildlife/jaguar
-Vulnerable,Not listed,Not listed,"In 2018, spring counts estimated 38,637 breeding lesser prairie-chickens range-wide",/wildlife/lesser-prairie-chicken
-Threatened,Endangered,Not Listed,"Rough estimates are 15,400 - 23,900 individuals in Washington, Oregon and California",/wildlife/marbled-murrelet
-Endangered,Not listed,Not listed,In 2019 there were 163 individual wolves in 42 packs of two or more animals in the wild in Arizona and New Mexico,/wildlife/mexican-gray-wolf
-Not listed,Not listed,Not listed,"Populations are small and severely fragmented, making population estimates difficult for many species",/wildlife/mice-and-rats
-Endangered,Critically Endangered,Appendix I,"Only about 400 North Atlantic right whales remain and of those, only 85 are reproductively active females",/wildlife/north-atlantic-right-whale
-Endangered,Least Concern,Appendix I,"An estimated 800,000 to 1.5 million are found throughout the Western Hemisphere. In the U.S., fewer than 60 ocelots remain in two tiny populations in southeast Texas. Additionally, occasional migrants enter southern Arizona from Mexico.",/wildlife/ocelot
-Endangered,Not Listed,Not listed,"There are 75 southern resident orcas left in three pods: J, K and L",/wildlife/orca
-Threatened,Vulnerable,Appendix I,"Estimates are fewer than 10,000 breeding pairs of burrowing owls. 
+Hellbender,Endangered,Near Threatened,Appendix III,"These unique and fascinating critters were historically widespread and abundant across 15 states, but surveys across their range have revealed that their numbers are falling fast, with about 78% of populations declining or already extirpated. The most stable remaining populations occur overwhelmingly on public lands",/wildlife/hellbender
+Horseshoe Crab,Not Listed,Vulnerable,Not Listed,Not listed,/wildlife/horseshoe-crab
+Jaguar,Endangered,Near Threatened,Appendix I,"The total population of jaguars in the Americas is approximately 64,000.  There are 34 jaguar subpopulations, 25 of which are threatened and eight of which are in danger of extinction",/wildlife/jaguar
+Lesser Prairie Chicken,Vulnerable,Not listed,Not listed,"In 2018, spring counts estimated 38,637 breeding lesser prairie-chickens range-wide",/wildlife/lesser-prairie-chicken
+Marbled Murrelet,Threatened,Endangered,Not Listed,"Rough estimates are 15,400 - 23,900 individuals in Washington, Oregon and California",/wildlife/marbled-murrelet
+Mexican Gray Wolf,Endangered,Not listed,Not listed,In 2019 there were 163 individual wolves in 42 packs of two or more animals in the wild in Arizona and New Mexico,/wildlife/mexican-gray-wolf
+Mice and Rats,Not listed,Not listed,Not listed,"Populations are small and severely fragmented, making population estimates difficult for many species",/wildlife/mice-and-rats
+North Atlantic Right Whale,Endangered,Critically Endangered,Appendix I,"Only about 400 North Atlantic right whales remain and of those, only 85 are reproductively active females",/wildlife/north-atlantic-right-whale
+Ocelot,Endangered,Least Concern,Appendix I,"An estimated 800,000 to 1.5 million are found throughout the Western Hemisphere. In the U.S., fewer than 60 ocelots remain in two tiny populations in southeast Texas. Additionally, occasional migrants enter southern Arizona from Mexico.",/wildlife/ocelot
+Orca,Endangered,Not Listed,Not listed,"There are 75 southern resident orcas left in three pods: J, K and L",/wildlife/orca
+Owls,Threatened,Vulnerable,Appendix I,"Estimates are fewer than 10,000 breeding pairs of burrowing owls. 
 Snowy owls number around 200,00 but an exact population is hard to determine. 
 The northern spotted owl has 1,200 pairs in Oregon, 560 pairs in northern California and 500 pairs in the state of Washington. 
 There are fewer than 50 pygmy owls in the United States.",/wildlife/owls
-Not listed,Not listed,Not listed,"It is difficult to estimate population numbers due to the large number of species and wide geographic range. However, populations have dropped drastically from what they were historically",/wildlife/pacific-salmon
-Not Listed,Not listed,Appendix III,"More than 200,000",/wildlife/pacific-walrus
-Endangered,Not listed,Not listed,"Today, approximately 100 wild Pallid Sturgeon live in the upper Missouri River system above Lake Sakakawea. Estimates of the population in other parts of their range are less easy to quantify",/wildlife/pallid-sturgeon
-Endangered,Not listed,Appendix I,"Of the 374 species of parrots in the world, 116 are listed as vulnerable, endangered or worse by the IUCN Red List. Some species have populations of less than a thousand and most species have decreasing populations. ",/wildlife/parrots
-Delisted,Least Concern,Appendix I,"There are an estimated 23,000 that spend most of their time in the United States. ",/wildlife/peregrine-falcon
-Vulnerable,Not listed,Not listed,"The global population is 770,000 individuals but over the past 50 years, the pinyon jay population declined by 85%, and, without protections afforded by the Endangered Species Act, half of its remaining global population is expected to be lost by 2035",/wildlife/pinyon-jay
-Threatened,Vulnerable,Appendix II,"While some populations are doing okay, the Southern Beaufort Sea population that resides in the Alaskan and Canadian Arctic is struggling to survive, with only an estimated 900 bears remaining, a decrease of over 50% from earlier estimates",/wildlife/polar-bear
-Not listed,Not listed,Not listed,"More than 16% of vertebrate pollinators (like bats and birds) are threatened with extinction, and the situation may be even worse for insect pollinators. While it’s harder to study insects on a global scale, experts say that in some regions, more than 40% of invertebrate pollinator species – bees, moths, butterflies and more – are threatened with extinction",/wildlife/pollinators
-Not Listed,Least Concern,Not Listed,"Black-tailed prairie dogs once numbered in the hundreds of millions – maybe even over a billion. But their numbers have decreased by over 95%. Today, they may number around 10-20 million",/wildlife/prairie-dog
-Endangered,Critically Endangered,Appendix I,There are nine known red wolves left in the wild,/wildlife/red-wolf
-Endangered,Critically Endangered,Appendix II,"There are fewer than 100 Gulf of Mexico whales remaining, and a “best estimate” population of 50 animals",/wildlife/rices-whale
-Threatened,Near Threatened,Not Listed,"30,000-50,00",/wildlife/rufa-red-knot
-Threatened,Endangered,Not listed,"The total population of greater sage-grouse is estimated between 200,000 and 400,000, while there are less than 5,000 Gunnison sage-grouse remaining",/wildlife/sage-grouse
-Threatened,Endangered,Appendix I,"Historically, sea otters numbered between 150,000 and 300,000 animals throughout the Pacific Rim. The southern sea otter population, which once numbered about 16,000 animals, is hovering around 3,000 today",/wildlife/sea-otter
-Endangered,Endangered,Appendix I,"Since male and juvenile sea turtles do not return to shore once they hatch and reach the ocean, populations are extremely hard to count.",/wildlife/sea-turtles
-Not listed,Not listed,Not listed,It is difficult to estimate population numbers since there are many different species whose habitats span large geographic areas,/wildlife/sharks-and-rays
-Not listed,Not listed,Not listed,"Population numbers are unknown, but due to shrinking habitat, populations of many species are declining",/wildlife/snakes-and-lizards
-Endangered,Not listed,Appendix I,Approximately 160 Sonoran pronghorn remain in the United States and 240 are protected in Mexico.,/wildlife/sonoran-pronghorn
-Endangered,Endangered,Appendix I,"In the early 1900s, there were estimated to be around 100,000 tigers throughout their range. Today, around 4,000 tigers live in the wild, while roughly 5,000-7,000 exist in captivity",/wildlife/tiger
-Threatened,Vulnerable,Not listed,Tortoise populations are hard to quantify because of fragmented habitat and severe decline,/wildlife/tortoises
-Endangered,Critically Endangered,Appendix I,There are only around a dozen vaquita left in the world.,/wildlife/vaquita
-Not Listed,Least Concern,Appendix II,The estimated population in the lower 48 is around 300,/wildlife/wolverine
+Pacific Salmon,Not listed,Not listed,Not listed,"It is difficult to estimate population numbers due to the large number of species and wide geographic range. However, populations have dropped drastically from what they were historically",/wildlife/pacific-salmon
+Pacific Walrus,Not Listed,Not listed,Appendix III,"More than 200,000",/wildlife/pacific-walrus
+Pallid Sturgeon,Endangered,Not listed,Not listed,"Today, approximately 100 wild Pallid Sturgeon live in the upper Missouri River system above Lake Sakakawea. Estimates of the population in other parts of their range are less easy to quantify",/wildlife/pallid-sturgeon
+Parrots,Endangered,Not listed,Appendix I,"Of the 374 species of parrots in the world, 116 are listed as vulnerable, endangered or worse by the IUCN Red List. Some species have populations of less than a thousand and most species have decreasing populations. ",/wildlife/parrots
+Peregrine Falcon,Delisted,Least Concern,Appendix I,"There are an estimated 23,000 that spend most of their time in the United States. ",/wildlife/peregrine-falcon
+Pinyon Jay,Vulnerable,Not listed,Not listed,"The global population is 770,000 individuals but over the past 50 years, the pinyon jay population declined by 85%, and, without protections afforded by the Endangered Species Act, half of its remaining global population is expected to be lost by 2035",/wildlife/pinyon-jay
+Polar Bear,Threatened,Vulnerable,Appendix II,"While some populations are doing okay, the Southern Beaufort Sea population that resides in the Alaskan and Canadian Arctic is struggling to survive, with only an estimated 900 bears remaining, a decrease of over 50% from earlier estimates",/wildlife/polar-bear
+Pollinators,Not listed,Not listed,Not listed,"More than 16% of vertebrate pollinators (like bats and birds) are threatened with extinction, and the situation may be even worse for insect pollinators. While it’s harder to study insects on a global scale, experts say that in some regions, more than 40% of invertebrate pollinator species – bees, moths, butterflies and more – are threatened with extinction",/wildlife/pollinators
+Prairie Dog,Not Listed,Least Concern,Not Listed,"Black-tailed prairie dogs once numbered in the hundreds of millions – maybe even over a billion. But their numbers have decreased by over 95%. Today, they may number around 10-20 million",/wildlife/prairie-dog
+Red Wolf,Endangered,Critically Endangered,Appendix I,There are nine known red wolves left in the wild,/wildlife/red-wolf
+Rice's Whale,Endangered,Critically Endangered,Appendix II,"There are fewer than 100 Gulf of Mexico whales remaining, and a “best estimate” population of 50 animals",/wildlife/rices-whale
+Rufa Red Knot,Threatened,Near Threatened,Not Listed,"30,000-50,00",/wildlife/rufa-red-knot
+Sage-Grouse,Threatened,Endangered,Not listed,"The total population of greater sage-grouse is estimated between 200,000 and 400,000, while there are less than 5,000 Gunnison sage-grouse remaining",/wildlife/sage-grouse
+Sea Otter,Threatened,Endangered,Appendix I,"Historically, sea otters numbered between 150,000 and 300,000 animals throughout the Pacific Rim. The southern sea otter population, which once numbered about 16,000 animals, is hovering around 3,000 today",/wildlife/sea-otter
+Sea Turtles,Endangered,Endangered,Appendix I,"Since male and juvenile sea turtles do not return to shore once they hatch and reach the ocean, populations are extremely hard to count.",/wildlife/sea-turtles
+Sharks and Rays,Not listed,Not listed,Not listed,It is difficult to estimate population numbers since there are many different species whose habitats span large geographic areas,/wildlife/sharks-and-rays
+Snakes and Lizards,Not listed,Not listed,Not listed,"Population numbers are unknown, but due to shrinking habitat, populations of many species are declining",/wildlife/snakes-and-lizards
+Sonoran Pronghorn,Endangered,Not listed,Appendix I,Approximately 160 Sonoran pronghorn remain in the United States and 240 are protected in Mexico.,/wildlife/sonoran-pronghorn
+Tiger,Endangered,Endangered,Appendix I,"In the early 1900s, there were estimated to be around 100,000 tigers throughout their range. Today, around 4,000 tigers live in the wild, while roughly 5,000-7,000 exist in captivity",/wildlife/tiger
+Tortoises,Threatened,Vulnerable,Not listed,Tortoise populations are hard to quantify because of fragmented habitat and severe decline,/wildlife/tortoises
+Vaquita,Endangered,Critically Endangered,Appendix I,There are only around a dozen vaquita left in the world.,/wildlife/vaquita
+Wolverine,Not Listed,Least Concern,Appendix II,The estimated population in the lower 48 is around 300,/wildlife/wolverine
